@@ -1,0 +1,53 @@
+* {
+    /* outline: 1px solid red; */
+}
+body {
+    background-color: orange;
+    text-align: center;
+}
+
+#app-container {
+    background-color: white;
+}
+
+#table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr, th, td, table{
+    border: 2px solid orange;
+}
+
+#button-container {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#message {
+    color: darkorange;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+button {
+    font-size: 1.5em;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+#flip{
+    background-color: blue;
+}
+
+#flip:hover {
+    background-color: rgb(3, 128, 3);
+}
+
+#clear {
+    background-color: orange;
+}
+
+#clear:hover {
+    background-color: red;
+}
